@@ -31,12 +31,29 @@
 // let loopback=IPking::V6(String::from("::1"));
 // println!("Home={home:?},Loopback={loopback:?}");
 // }
-enum Message{
-    Quit,
-    Move(x:i32,y:i32),
-    Write(String),
-    ChangeColor(i32,i32,i32)
+// enum Message{
+//     Quit,
+//     Move(x:i32,y:i32),
+//     Write(String),
+//     ChangeColor(i32,i32,i32)
+// }
+// impl Message{
+//     fn call(&self){
+
+//     }
+// }
+// fn main(){
+//     let m=Message::Write(String::from("hello"));
+//     m.call();
+// }
+#[derive(Debug)]
+enum Option<T>{
+    None,
+    Some(T),
 }
-impl Message{
-    fn 
+fn main(){
+    let some_number=Option::Some(5);
+    println!("the number is {some_number:?}");
+    let null_value : Option<i32> =Option::None;
+    println!("the number is {null_value:?}");
 }
