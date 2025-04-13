@@ -1,0 +1,11 @@
+/home/sarvil/projects/RUST/snake-rs/target/debug/deps/libgetrandom-af01d6ccf6c2a254.rmeta: /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/linux_android.rs
+
+/home/sarvil/projects/RUST/snake-rs/target/debug/deps/getrandom-af01d6ccf6c2a254.d: /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs /home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/linux_android.rs
+
+/home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs:
+/home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs:
+/home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs:
+/home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs:
+/home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs:
+/home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs:
+/home/sarvil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/linux_android.rs:
