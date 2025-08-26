@@ -1,0 +1,6 @@
+# Only count Rust files in language stats
+*.rs linguist-detectable=true
+
+# Ignore everything else
+*.* linguist-detectable=false
+
