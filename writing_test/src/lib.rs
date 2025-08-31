@@ -40,15 +40,35 @@
 //    assert!(rect1.can_hold(&rect2));
 //     }
 // }
-fn add_two(a:u64)->u64{
-    a+2
+// fn add_two(a:u64)->u64{
+//     a+2
+// }
+// #[cfg(test)]
+// mod tests{
+// use super::*;
+// #[test]
+// fn testing(){
+//     let two=add_two(2);
+//     assert_ne!(two,5);
+// }
+// }
+struct Guess{
+    value:u32,
+}
+impl Guess{
+    fn new(value:u32)->Guess{
+        if value>100{
+            panic!("value must be below than 100")
+        }
+        Guess{value}
+    }
 }
 #[cfg(test)]
 mod tests{
-use super::*;
-#[test]
-fn testing(){
-    let two=add_two(2);
-    assert_ne!(two,5);
-}
+    use super::*;
+    #[test]
+    #[should_panic]
+    fn value_test(){
+        Guess::new(9);
+    }
 }
