@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Sarvil\Rust\question_operator_shell\malboard_set\target\debug\deps\bitstream_io-4ebaaceb24a1070e.d: C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\lib.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\huffman.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\read.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\write.rs
+
+C:\Users\lenovo\Desktop\Sarvil\Rust\question_operator_shell\malboard_set\target\debug\deps\libbitstream_io-4ebaaceb24a1070e.rlib: C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\lib.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\huffman.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\read.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\write.rs
+
+C:\Users\lenovo\Desktop\Sarvil\Rust\question_operator_shell\malboard_set\target\debug\deps\libbitstream_io-4ebaaceb24a1070e.rmeta: C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\lib.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\huffman.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\read.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\write.rs
+
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\lib.rs:
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\huffman.rs:
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\read.rs:
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\write.rs:

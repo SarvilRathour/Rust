@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\Sarvil\Rust\question_operator_shell\target\debug\deps\av1_grain-cb5872a6a4feb06f.d: C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\lib.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\create.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\diff.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\diff\solver.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\diff\solver\util.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\parse.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\util.rs
+
+C:\Users\lenovo\Desktop\Sarvil\Rust\question_operator_shell\target\debug\deps\libav1_grain-cb5872a6a4feb06f.rmeta: C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\lib.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\create.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\diff.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\diff\solver.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\diff\solver\util.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\parse.rs C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\util.rs
+
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\lib.rs:
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\create.rs:
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\diff.rs:
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\diff\solver.rs:
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\diff\solver\util.rs:
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\parse.rs:
+C:\Users\lenovo\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\av1-grain-0.2.5\src\util.rs:
